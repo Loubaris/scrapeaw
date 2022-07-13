@@ -8,6 +8,8 @@ IP's<br>across the world using Shodan</p>
 
 
 ```python
+
+Modules needed: (request)
 Usage: scrape <shodan> <sub+ject> <path_to_save>
 
 #Example running scrapaw.py
