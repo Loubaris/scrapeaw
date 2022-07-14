@@ -4,7 +4,7 @@
 
 
 <p align="center">ScrapeAW is a framework that without API scrapes
-IP's<br>across the world using Shodan</p>
+IPs<br>across the world using Shodan</p>
 
 
 ```python
