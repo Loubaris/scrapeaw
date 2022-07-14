@@ -3,7 +3,7 @@
 <h3 align="center">ScrapeAW</h3>
 
 
-<p align="center">ScrapeAW is a framework that without API scrape
+<p align="center">ScrapeAW is a framework that without API scrapes
 IP's<br>across the world using Shodan</p>
 
 
