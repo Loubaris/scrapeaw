@@ -64,10 +64,10 @@ def scrape(command):
 		else:
 			try:
 				print("- Connecting to shodan")
-				#req = requests.get(f"https://www.shodan.io/search?query={argv1}", "html.parser")
-				#curl_brut = open("curl_brut.txt", "w")
-				#curl_brut.write(req.text)
-				#curl_brut.close()
+				req = requests.get(f"https://www.shodan.io/search?query={argv1}", "html.parser")
+				curl_brut = open("curl_brut.txt", "w")
+				curl_brut.write(req.text)
+				curl_brut.close()
 				curl_brut = open("curl_brut.txt", "r")
 				curl_brut_content = curl_brut.read()
 				curl_brut.close()
