@@ -8,7 +8,7 @@ IPs<br>across the world using Shodan</p>
 ```python
 
 Modules needed: (request)
-Usage: scrape <shodan> <sub+ject> <path_to_save>
+Usage: scrape <shodan> <subject1+subject2> <path_to_save>
 
 #Example running scrapaw.py
 (scrapaw)>scrape shodan Android+Debug+Bridge /Desktop/
